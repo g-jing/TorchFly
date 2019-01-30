@@ -5,7 +5,7 @@ with open("README.md", encoding='utf-8') as fh:
 
 setup(
     name="TorchFly",
-    version="0.1dev",
+    version="0.10",
     author="Qingyang Wu",
     author_email="wilwu@ucdavis.edu",
     description="Pytorch Fast Development Kit",
